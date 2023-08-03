@@ -10,7 +10,7 @@
   "keywords": ["package", "laravel", "payfast"],
   "license": "MIT",
   "require": {
-    "billowapp/show-me-the-money": "dev-main",
+    "billowapp/show-me-the-money": "dev-master",
     "illuminate/http": "^1.1"
   },
   "repositories": [
